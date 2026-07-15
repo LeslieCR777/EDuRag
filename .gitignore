@@ -1,0 +1,28 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 大模型文件
+*.bin
+*.safetensors
+*.pt
+
+# 样本文件
+rag_qa/samples/
+
+# 环境
+.env
+venv/
+.venv/
+
+# 操作系统
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# 日志
+*.log
